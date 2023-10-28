@@ -1,4 +1,4 @@
-# Tugas Pemrograman Berorientasi Objek - Sesuai 7
+# Tugas Pemrograman Berorientasi Objek - Sesi 7
 
 **Nama:** Damara Kartika Sari  
 **NPM:** 202143502678  
