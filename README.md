@@ -27,3 +27,5 @@
 ## Output No 3
 
 ![Output 3](https://github.com/SANSALUKI/TugasPBOsesi7.java/blob/b54baeee266dd6ad32d8aef6b7b28acc29f51656/outputNo3.png)
+
+![Output 3-2](https://github.com/SANSALUKI/TugasPBOsesi7.java/blob/1ba91851045772e54ced315790d82bd2b728dfaf/OutputNo3-2.png)
